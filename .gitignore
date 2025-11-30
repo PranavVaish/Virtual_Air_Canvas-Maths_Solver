@@ -1,0 +1,24 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+
+# --- Virtual Environments (CRITICAL: Do not upload these) ---
+.venv/
+venv/
+env/
+Scripts/
+Lib/
+
+# --- Runtime/Temporary Files ---
+# These are images generated while drawing; we don't need to save them.
+math_temp.png
+query.jpg
+*.log
+
+# --- IDE Settings ---
+.vscode/
+.idea/
+
+# --- OS Junk Files ---
+.DS_Store
+Thumbs.db
