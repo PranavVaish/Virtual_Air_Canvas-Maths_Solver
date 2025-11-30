@@ -171,10 +171,8 @@ Speak clearly into the microphone. The system is optimized for these specific wo
 This project was architected and developed by:
 
 **Pranav Vaish** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavvaish20)  
-*Specialization: Computer Vision, AI Pipeline Integration, and System Architecture.*
 
 **Dikshant Arora** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshant-arora-794149323)  
-*Specialization: Speech Recognition, Optimization Algorithms, and Logic Implementation.*
 
 ---
 
