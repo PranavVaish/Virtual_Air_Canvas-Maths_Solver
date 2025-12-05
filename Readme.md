@@ -6,17 +6,17 @@ A multimodal **"Neuro-Symbolic" AI application** that turns your webcam into a t
 
 ## 📸 Project Demo & Output
 
-This system effectively handles arithmetic operations including Addition, Subtraction, Multiplication, Division, and Modulus.
+This system effectively handles arithmetic operations including Addition, Subtraction, Multiplication, Division, Modulus and Power.
 
-| **Multiplication** | **Subtraction** | **Addition** |
-|:---:|:---:|:---:|
-| ![Multiplication](virtual_air_canvas_output/Output1.png) | ![Subtraction](virtual_air_canvas_output/Output4.png) | ![Addition](virtual_air_canvas_output/Output5.png) |
+| **Multiplication** | **Subtraction** | **Addition** | 
+|:---:|:---:|:---:|:---:|
+| ![Multiplication](virtual_air_canvas_output/Output1.png) | ![Subtraction](virtual_air_canvas_output/Output4.png) | ![Addition](virtual_air_canvas_output/Output5.png) | 
 | *5 x 4 = 20* | *5 - 7 = -2* | *7 + 1 = 8* |
 
-| **Division** | **Modulus** |
-|:---:|:---:|
-| ![Division](virtual_air_canvas_output/Output3.png) | ![Modulus](virtual_air_canvas_output/Output2.png) |
-| *7 / 3 = 2.33* | *2 % 2 = 0* |
+| **Division** | **Modulus** | **Power** |
+|:---:|:---:|:---:|
+| ![Division](virtual_air_canvas_output/Output3.png) | ![Modulus](virtual_air_canvas_output/Output2.png) | ![Power](virtual_air_canvas_output/Output6.png) |
+| *7 / 3 = 2.33* | *2 % 2 = 0* | *5 ^ 2 = 25* |
 
 ---
 

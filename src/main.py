@@ -107,7 +107,12 @@ def safe_calculate(expression):
         expression = expression.lower().replace('x', '*') # Convert 'x' to multiply
         expression = expression.replace('s', '5')         # S -> 5
         expression = expression.replace('o', '0')         # O -> 0
+        expression = expression.replace('z', '2')         # Z -> 2
         
+        # --- NEW: Support for Powers ---
+        # Python uses '**' for power, but humans write '^'. 
+        # We swap them here.
+        expression = expression.replace('^', '**')
         # Clean: Keep only numbers and operators
         cleaned_expr = re.sub(r'[^0-9\.\+\-\*\/\%\(\)]', '', expression)
         print(f"🧮 Parsed Equation: {cleaned_expr}")
