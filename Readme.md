@@ -168,7 +168,7 @@ Speak clearly into the microphone. The system is optimized for these specific wo
 
 ## 👥 Credits & Developers
 
-This project was architected and developed by:
+This project was collaboratively designed, implemented by:
 
 **Pranav Vaish** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavvaish20)  
 
